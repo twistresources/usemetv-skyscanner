@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>tooltwist-website-2015-3</parent>
+  <name>tooltwist-website-2015-9</name>
+  <id>9</id>
+  <indexWithinParent>3</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>product4_GigaCore</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>tooltwist-website-2015_pages.product4_GigaCore</pageWidget>
+</navpoint>

@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>tooltwist-website-2015-3</parent>
+  <name>tooltwist-website-2015-8</name>
+  <id>8</id>
+  <indexWithinParent>2</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>product3_Designer</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>tooltwist-website-2015_pages.product3_Designer</pageWidget>
+</navpoint>

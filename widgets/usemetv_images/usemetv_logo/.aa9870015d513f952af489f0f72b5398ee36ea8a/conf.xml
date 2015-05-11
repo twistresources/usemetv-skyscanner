@@ -1,0 +1,37 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.CropImageWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <updateTime>1431332121137</updateTime>
+  <shortDesc>v1</shortDesc>
+  <updatedBy>philipcallender</updatedBy>
+  <ipAddress>172.16.1.6</ipAddress>
+  <description>An image File, that can be resized and cropped as required to fit the page.</description>
+  <jumpTo></jumpTo>
+  <suffix>png</suffix>
+  <crop>N</crop>
+  <shrink>Y</shrink>
+  <doCrop>Y</doCrop>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>360</cropWidth>
+  <cropHeight>57</cropHeight>
+  <width></width>
+  <height></height>
+  <tint>none</tint>
+  <annotation></annotation>
+  <resizeMode></resizeMode>
+  <resizeWidth></resizeWidth>
+  <resizeHeight></resizeHeight>
+  <resizePercentage></resizePercentage>
+  <cornerWidth></cornerWidth>
+  <cornerHeight></cornerHeight>
+  <whichCorner></whichCorner>
+  <editableSnippet>
+    <name>imageWithLink.jsp</name>
+    <theme>project</theme>
+  </editableSnippet>
+  <editableSnippet>
+    <name>imageNoLink.jsp</name>
+    <theme>project</theme>
+  </editableSnippet>
+</widget>

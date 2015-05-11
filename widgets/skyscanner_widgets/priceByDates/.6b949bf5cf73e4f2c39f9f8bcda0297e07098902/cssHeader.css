@@ -1,0 +1,186 @@
+.skyscanner-prices-section {
+    height: 300px;
+    position: relative;
+    margin-bottom: 50px;
+    background-color: #f7f7f7;
+}
+    
+#skyscanner-outbound-graph {
+    height: 220px;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    border: solid 1px #ddd;
+    margin-right: 10px;
+    overflow: visible;
+    zbackground-color: pink;
+}
+    
+#skyscanner-inbound-graph {
+    height: 220px;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    border: solid 1px #ddd;
+    margin-right: 10px;
+    overflow: visible;
+}
+
+.skyscanner-outerBar {
+    display: inline-block;
+    position: relative;
+    float: left;
+    zbackground-color: yellow;
+    font-size: 12px;
+    color: white;
+
+    zborder-radius: 3px 3px 0 0;
+    zbottom: 0;
+    zcursor: pointer;
+    height: 100%;
+    zposition: absolute;
+    zwidth: 3.0%;
+    zmargin-left: 0.2%;
+    width: 21px;
+    zmargin-left: 1px;
+    zz-index: 1000;
+}
+
+.skyscanner-bar {
+    display: block;
+    font-size: 10px;
+    color: white;
+
+    border-radius: 3px 3px 0 0;
+    bottom: 0;
+    cursor: pointer;
+    zheight: 5px;
+    position: absolute;
+    text-align: center;
+    width: 21px;
+    z-index: 2000;
+    
+    zbackground: #4ecdc4;
+    background-image: linear-gradient(90deg, #76d8d1, #4ecdc4 70%);
+    border: 1px solid #4ecdc4;
+}
+
+.skyscanner-bar-na {
+    display: block;
+    background-color: #ddd;
+    font-size: 10px;
+
+    border-radius: 3px 3px 0 0;
+    border: 1px solid #bbb;
+    color: #666;
+    bottom: 0;
+    cursor: pointer;
+    height: 5px;
+    position: absolute;
+    text-align: center;
+    width: 21px;
+    z-index: 1000;
+}
+
+.skyscanner-dateLabel {
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    bottom: -20px;
+    zpadding-left: 5px;
+    zbackground-color: pink;
+    width: 21px;
+}
+    
+.skyscanner-lowest {
+    zbackground-color: red !important;
+    zbackground-image: none;
+    background-image: linear-gradient(0deg, #ff9999, #ff0000 70%);
+    zcolor: black !important;
+    border: none !important;
+}
+
+.skyscanner-yaxis {
+    position: absolute;
+    display: block;
+    border-top: 1px solid #ccc;
+    zbackground-color: pink;
+    width: 100%;
+}
+    
+.skyscanner-yaxis span {
+    zbackground-color: yellow;
+    color: #333;
+    zleft: -75px;
+    font-size: 16px;
+    width: 70px;
+    text-align: right;    
+    
+    display: block;
+    margin: -10px 0 0 -65px;
+    padding: 0 10px;
+    zwidth: 40px;
+}
+    
+
+.skyscanner-minPrice-bar {
+    position: absolute;
+    display: block;
+    border-top: 1px solid #e33;
+    zbackground-color: pink;
+    width: 100%;
+    z-index: 500;
+    margin-left: -30px;
+}
+    
+.skyscanner-minPrice-bar span {
+    position: relative;
+    background-color: #e33;
+    color: white;
+    zleft: -75px;
+    font-size: 22px;
+    font-weight: bold;
+    width: 150px;
+    text-align: center;    
+    
+    /*
+    display: block;
+    margin-top: -18px;
+    margin-right: -60px;
+    float: right;
+    */
+    
+    left: -45px;
+    top: -17px;
+    
+    border-radius: 0 8px 8px 0;
+
+
+    zmargin-left: 165px;
+    zright: 30px;
+    padding: 0 10px;
+    zwidth: 40px;
+    z-index: 500;
+}
+    
+.rotate-body {
+    -webkit-transform: rotate(-90deg);
+    width: 1080px !important;
+}
+
+.skyscanner-image-div {
+    margin-top: 80px;
+    padding-top: 40px;
+    background-color: #f7f7f7;
+    padding-bottom: 100px;
+    border-top: 1px solid #e7e7e7;
+}
+
+.skyscanner-image-div img {
+    margin-left: auto;
+    margin-right: auto;
+	display: block;
+    height: 500px;
+}
+
+

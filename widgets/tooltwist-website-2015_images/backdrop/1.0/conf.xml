@@ -1,0 +1,13 @@
+<widget>
+  <widgetClass>tooltwist.wbd.CropImageWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Backdrop</description>
+  <suffix>jpg</suffix>
+  <crop>N</crop>
+  <shrink>Y</shrink>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>2000</cropWidth>
+  <cropHeight>1200</cropHeight>
+  <tint>none</tint>
+</widget>

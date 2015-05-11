@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>ZOUSAZUB-2</parent>
+  <name>ZOUSAZUB-7</name>
+  <id>ZOUSAZUB-7</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>Beaches</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>skyscanner.pages.prices_beaches</pageWidget>
+</navpoint>

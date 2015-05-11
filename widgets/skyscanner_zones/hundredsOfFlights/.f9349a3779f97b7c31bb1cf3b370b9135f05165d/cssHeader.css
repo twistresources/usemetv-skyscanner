@@ -1,0 +1,27 @@
+#hundredsOfFlights {
+    color: #049900;
+    
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 80px;
+    zbackground-color: #e7e7e7;
+    padding-bottom: 130px;
+}
+#hundredsOfFlights .well {
+    padding: 7%;
+}
+
+#hundredsOfFlights .panel {
+    margin-bottom: 0px;
+}
+
+#hundredsOfFlights .panel-wrapper {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+#hundredsOfFlights h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+}

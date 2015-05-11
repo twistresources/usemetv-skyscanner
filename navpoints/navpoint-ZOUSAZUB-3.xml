@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>tooltwist-website-2015</parent>
+  <name>ZOUSAZUB-3</name>
+  <id>ZOUSAZUB-3</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>Default page</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>tooltwist-website-2015.pages.zoura</pageWidget>
+</navpoint>

@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431013719836</timeChanged>
+  <status>pending</status>
+  <comment>Initial version</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1430831903780</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from tooltwist-website-2015.pages.skyscanner to tooltwist-website-2015.pages.idle1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>

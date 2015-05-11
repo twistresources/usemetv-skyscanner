@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431015464016</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431015458357</timeChanged>
+  <status>pending</status>
+  <comment>Added missing link page to webdesign project</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431009333759</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.cropImage to tooltwist-website-2015.images.missingLink</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>

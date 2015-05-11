@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431015268010</timeChanged>
+  <status>pending</status>
+  <comment>Split Zoura into zones</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1430472578711</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from tooltwist-website-2015.pages.skyscanner to tooltwist-website-2015.pages.zoura</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>

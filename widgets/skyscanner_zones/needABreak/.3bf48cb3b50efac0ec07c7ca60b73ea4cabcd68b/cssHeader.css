@@ -1,0 +1,21 @@
+#needABreak {
+    margin-top: 50px;
+    zmargin-top: 30px;
+    zmargin-bottom: 30px;
+    zmargin-bottom: 20px;
+}
+
+#needABreak .row {
+    background-color: #eee;
+    padding-bottom: 20px;
+    border-top: 1px solid #99a;
+    zborder-top: 1px solid red;
+    border-bottom: 1px solid #99a;
+}
+
+#needABreak img {
+    width: 100%;
+    zmargin-top: 30px;
+    zmargin-top: 50px;
+    margin-bottom: 30px;
+}

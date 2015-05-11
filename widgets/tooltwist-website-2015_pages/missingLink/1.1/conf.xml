@@ -1,0 +1,111 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.PageWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <parentVersion>1.0</parentVersion>
+  <updateTime>1431011706055</updateTime>
+  <shortDesc>Tidied page</shortDesc>
+  <updatedBy>philipcallender</updatedBy>
+  <ipAddress>172.16.1.8</ipAddress>
+  <pageMode></pageMode>
+  <pageType>regular</pageType>
+  <framework>jquery</framework>
+  <styleClass></styleClass>
+  <theme></theme>
+  <cell>
+    <widget>
+      <linkedWidget>toolbox.grid</linkedWidget>
+      <idWithinRootWidget>0</idWithinRootWidget>
+      <cols>1</cols>
+      <rows>3</rows>
+      <width>350</width>
+      <height>50</height>
+      <align>center</align>
+      <valign>top</valign>
+      <cellDivs>none</cellDivs>
+      <cell>
+        <index>0,0</index>
+        <width></width>
+        <height></height>
+        <align>center</align>
+        <valign></valign>
+        <wrap></wrap>
+        <styleClass></styleClass>
+        <left></left>
+        <top></top>
+        <_initialized>true</_initialized>
+        <widget>
+          <linkedWidget>toolbox.richText</linkedWidget>
+          <idWithinRootWidget>100</idWithinRootWidget>
+          <description></description>
+          <text>&lt;h1 style="text-align: center;"&gt;&lt;br /&gt;&lt;/h1&gt;
+&lt;h1 style="text-align: center;"&gt;Missing Link&lt;br /&gt;&lt;/h1&gt;
+&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;Unfortunately, you have discovered a missing link in our website.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;To continue, you may press the BACK button on your browser,&amp;nbsp;or press the home link below.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;Sorry for the inconvenience.&lt;/p&gt;
+		  </text>
+          <width></width>
+          <height></height>
+          <styleClass></styleClass>
+        </widget>
+      </cell>
+      <cell>
+        <index>0,1</index>
+        <width></width>
+        <height></height>
+        <align>center</align>
+        <valign></valign>
+        <wrap></wrap>
+        <styleClass></styleClass>
+        <left></left>
+        <top></top>
+        <_initialized>true</_initialized>
+        <widget>
+          <linkedWidget>tooltwist-website-2015.images.missingLink</linkedWidget>
+          <idWithinRootWidget>103</idWithinRootWidget>
+          <description></description>
+          <jumpTo></jumpTo>
+          <suffix></suffix>
+          <crop>N</crop>
+          <shrink>Y</shrink>
+          <doCrop></doCrop>
+          <cropX></cropX>
+          <cropY></cropY>
+          <cropWidth></cropWidth>
+          <cropHeight></cropHeight>
+          <width></width>
+          <height></height>
+          <tint></tint>
+          <annotation></annotation>
+          <resizeMode></resizeMode>
+          <resizeWidth></resizeWidth>
+          <resizeHeight></resizeHeight>
+          <resizePercentage></resizePercentage>
+          <cornerWidth></cornerWidth>
+          <cornerHeight></cornerHeight>
+          <whichCorner></whichCorner>
+        </widget>
+      </cell>
+      <cell>
+        <index>0,2</index>
+        <width></width>
+        <height></height>
+        <align>center</align>
+        <valign></valign>
+        <wrap></wrap>
+        <styleClass></styleClass>
+        <left></left>
+        <top></top>
+        <_initialized>true</_initialized>
+        <widget>
+          <linkedWidget>toolbox.link</linkedWidget>
+          <idWithinRootWidget>102</idWithinRootWidget>
+          <navpoint>tooltwist-website-2015-1</navpoint>
+          <class>sludge</class>
+          <stylePrefix>lwmenu</stylePrefix>
+        </widget>
+      </cell>
+    </widget>
+  </cell>
+</widget>

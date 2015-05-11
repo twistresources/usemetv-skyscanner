@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>ZOUSAZUB-1</parent>
+  <name>ZOUSAZUB-2</name>
+  <id>ZOUSAZUB-2</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>Type of Travel</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>tooltwist-website-2015.pages.travel_type</pageWidget>
+</navpoint>

@@ -1,0 +1,62 @@
+<widget>
+  <widgetClass>tooltwist.wbd.PageWidget</widgetClass>
+  <!--
+  <linkedWidget>toolbox.page</linkedWidget>
+  -->
+  <backgroundColor>white</backgroundColor>
+  <cell>
+    <widget>
+      <widgetClass>tooltwist.wbd.GridWidget</widgetClass>
+      <idWithinRootWidget>0</idWithinRootWidget>
+      <linkedWidget>toolbox.grid</linkedWidget>
+      <cols>1</cols>
+      <rows>3</rows>
+      <width>350</width>
+      <height>50</height>
+      <align>center</align>
+      <valign>top</valign>
+      <cell>
+        <index>0,0</index>
+        <align>center</align>
+        <_initialized>true</_initialized>
+        <widget>
+          <widgetClass>tooltwist.wbd.RichTextWidget</widgetClass>
+          <idWithinRootWidget>100</idWithinRootWidget>
+          <linkedWidget>toolbox.richText</linkedWidget>
+          <text>&lt;h1 style="text-align: center;"&gt;&lt;br /&gt;&lt;/h1&gt;
+&lt;h1 style="text-align: center;"&gt;Missing Link&lt;br /&gt;&lt;/h1&gt;
+&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;Unfortunately, you have discovered a missing link in our website.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;To continue, you may press the BACK button on your browser,&amp;nbsp;or press the home link below.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;Sorry for the inconvenience.&lt;/p&gt;
+		  </text>
+        </widget>
+      </cell>
+      <cell>
+        <index>0,1</index>
+        <align>center</align>
+        <_initialized>true</_initialized>
+        <widget>
+          <widgetClass>tooltwist.wbd.ImageWidget</widgetClass>
+          <idWithinRootWidget>101</idWithinRootWidget>
+          <linkedWidget>toolbox.image</linkedWidget>
+          <imageFile>%%URL(tooltwist/wbd/missingLink.jpg)%%</imageFile>
+          <description>Image File</description>
+        </widget>
+      </cell>
+      <cell>
+        <index>0,2</index>
+        <align>center</align>
+        <_initialized>true</_initialized>
+        <widget>
+          <widgetClass>tooltwist.wbd.LinkWidget</widgetClass>
+          <idWithinRootWidget>102</idWithinRootWidget>
+          <linkedWidget>toolbox.link</linkedWidget>
+          <navpoint>tooltwist-website-2015-1</navpoint>
+          <stylePrefix>lwmenu</stylePrefix>
+        </widget>
+      </cell>
+    </widget>
+  </cell>
+</widget>

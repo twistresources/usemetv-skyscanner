@@ -1,0 +1,150 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <updateTime>1431332292877</updateTime>
+  <shortDesc>v1</shortDesc>
+  <updatedBy>philipcallender</updatedBy>
+  <ipAddress>172.16.1.6</ipAddress>
+  <editableSnippet>
+    <name>template.mustache</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>cssHeader.css</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>jsHeader.js</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>input.json</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>conf.xml</name>
+  </editableSnippet>
+  <cell>
+    <index>FLOW1</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.bs3_size_debug</linkedWidget>
+      <idWithinRootWidget>27</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW3</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.bs3_section</linkedWidget>
+      <idWithinRootWidget>36</idWithinRootWidget>
+      <cell>
+        <index>FLOW1</index>
+        <widget>
+          <linkedWidget>tooltwist-website-2015.zones.bs3_row</linkedWidget>
+          <idWithinRootWidget>37</idWithinRootWidget>
+          <cell>
+            <index>FLOW1</index>
+            <widget>
+              <linkedWidget>tooltwist-website-2015.zones.bs3_container</linkedWidget>
+              <idWithinRootWidget>38</idWithinRootWidget>
+              <cell>
+                <index>FLOW1</index>
+                <widget>
+                  <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+                  <idWithinRootWidget>40</idWithinRootWidget>
+                  <class>col-md-12</class>
+                  <class>col-md-12</class>
+                  <cell>
+                    <index>FLOW1</index>
+                    <widget>
+                      <linkedWidget>toolbox.richText</linkedWidget>
+                      <idWithinRootWidget>42</idWithinRootWidget>
+                      <description></description>
+                      <text>&lt;h3&gt;Marvin - a dozen specialists in one body.&lt;/h3&gt;</text>
+                      <width></width>
+                      <height></height>
+                      <styleClass></styleClass>
+                    </widget>
+                  </cell>
+                </widget>
+              </cell>
+              <cell>
+                <index>FLOW3</index>
+                <widget>
+                  <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+                  <idWithinRootWidget>39</idWithinRootWidget>
+                  <id>skills-1</id>
+                  <class>col-md-6 col-we-areZ wow flipInX</class>
+                  <id>skills-1</id>
+                  <class>col-md-6 col-we-areZ wow flipInX</class>
+                  <cell>
+                    <index>FLOW1</index>
+                    <widget>
+                      <linkedWidget>toolbox.richText</linkedWidget>
+                      <idWithinRootWidget>43</idWithinRootWidget>
+                      <description></description>
+                      <text>&lt;ul&gt;
+&lt;li&gt;Zulu World class web developer.&lt;/li&gt;
+&lt;li&gt;Programming guru.&lt;/li&gt;
+&lt;li&gt;Amazing product marketer.&lt;/li&gt;
+&lt;li&gt;A fantastic graphic artist.&lt;/li&gt;
+&lt;li&gt;Knows 497 open source APIs.&lt;/li&gt;
+&lt;li&gt;Writes killer copy.&lt;/li&gt;
+&lt;/ul&gt;</text>
+                      <width></width>
+                      <height></height>
+                      <styleClass></styleClass>
+                      <cell>
+                        <index>FLOW0</index>
+                        <align></align>
+                        <padding-left></padding-left>
+                        <padding-right></padding-right>
+                        <padding-top></padding-top>
+                        <padding-bottom></padding-bottom>
+                        <_initialized>true</_initialized>
+                        <widget>
+                          <linkedWidget>toolbox.richText</linkedWidget>
+                          <idWithinRootWidget>44</idWithinRootWidget>
+                          <description></description>
+                          <text>&lt;h3&gt;Marvin - a dozen specialists in one body.&lt;/h3&gt;</text>
+                          <width></width>
+                          <height></height>
+                          <styleClass></styleClass>
+                        </widget>
+                      </cell>
+                    </widget>
+                  </cell>
+                </widget>
+              </cell>
+              <cell>
+                <index>FLOW5</index>
+                <widget>
+                  <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+                  <idWithinRootWidget>41</idWithinRootWidget>
+                  <id>skills-2</id>
+                  <class>col-md-6 col-we-areZ wow flipInX</class>
+                  <id>skills-2</id>
+                  <class>col-md-6 col-we-areZ wow flipInX</class>
+                  <cell>
+                    <index>FLOW1</index>
+                    <widget>
+                      <linkedWidget>toolbox.richText</linkedWidget>
+                      <idWithinRootWidget>45</idWithinRootWidget>
+                      <description></description>
+                      <text>&lt;ul&gt;
+&lt;li&gt;Integrates any backend system.&lt;/li&gt;
+&lt;li&gt;Creates content that goes viral.&lt;/li&gt;
+&lt;li&gt;Incredible tech support guy.&lt;/li&gt;
+&lt;li&gt;Social media legend.&lt;/li&gt;
+&lt;li&gt;Speaks English, Chinese, Arabic and Swahili.&lt;/li&gt;
+&lt;li&gt;And much more...&lt;/li&gt;
+&lt;/ul&gt;</text>
+                      <width></width>
+                      <height></height>
+                      <styleClass></styleClass>
+                    </widget>
+                  </cell>
+                </widget>
+              </cell>
+            </widget>
+          </cell>
+        </widget>
+      </cell>
+    </widget>
+  </cell>
+</widget>

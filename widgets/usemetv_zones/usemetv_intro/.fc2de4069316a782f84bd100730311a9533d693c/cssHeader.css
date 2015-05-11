@@ -1,0 +1,65 @@
+#usemetv_intro {
+    zborder-top: 1px solid #666;
+    padding-top: 25px;
+    zpadding-bottom: 20px;
+}
+#usemetv_intro h2 small {
+    color: #42c5d4;
+}
+#usemetv_intro h2 {
+    color: #42c5d4;
+}
+
+
+
+#usemetv_intro_2 {
+    zborder-top: 1px solid #f0f0f0;
+    zborder-top: 1px solid red;
+    zpadding-top: 20px;
+    padding-bottom: 200px;
+    zbackground-color: yellow;
+}
+#usemetv_intro_2 h3 {
+    Zcolor: #42c5d4;
+    margin-top: 0px;
+}
+#shywall-debug-url {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+#skywall-website-url {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+#skywall-website-url .highlight {
+	zcolor: #42c5d4;
+	color: #445;
+}
+#usemetv-pin {
+    margin-top: 5px;
+    zcolor: #666;
+	zcolor: #42c5d4;
+	color: #445;
+}
+
+
+/*
+#usemetv_intro_2 h4 {
+    Zcolor: #42c5d4;
+    margin-top: 0px;
+}
+#usemetv_intro_2 h2 {
+    zcolor: #42c5d4;
+    zcolor: #121212;
+    color: #999;
+    margin-top: 0px;
+}
+*/
+#usemetv-qrcode {
+    margin-top: -18px;
+    margin-left: -15px;
+}
+
+#shywall-debug-url {
+    color: black;
+}

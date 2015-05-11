@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431332300468</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1427143213964</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.59.3</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1345162883338</timeChanged>
+  <status>edit</status>
+  <comment>Assumed approved prior to v8 migration.</comment>
+  <userCode></userCode>
+  <ipAddress></ipAddress>
+</statusHistory>
+</widgetStatus>

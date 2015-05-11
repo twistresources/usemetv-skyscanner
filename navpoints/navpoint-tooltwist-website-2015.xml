@@ -1,0 +1,14 @@
+﻿<navpoint>
+  <name>tooltwist-website-2015</name>
+  <id>tooltwist-website-2015</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>ToolTwist Demo</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Various navpoints expected by ToolTwist Demo</notes>
+  <pageWidget>tooltwist-website-2015.pages.missingLink</pageWidget>
+  <childrenUseSamePage>Y</childrenUseSamePage>
+  <onlyContainsAliases>N</onlyContainsAliases>
+</navpoint>

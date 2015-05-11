@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>tooltwist-website-2015</parent>
+  <name>ZOUSAZUB-1</name>
+  <id>ZOUSAZUB-1</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>SkyScanner</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>tooltwist-website-2015.pages.idle1</pageWidget>
+</navpoint>

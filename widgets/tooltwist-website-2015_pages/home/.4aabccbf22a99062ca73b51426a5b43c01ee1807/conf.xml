@@ -1,0 +1,409 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <updateTime>1431332285441</updateTime>
+  <shortDesc>v1</shortDesc>
+  <updatedBy>philipcallender</updatedBy>
+  <ipAddress>172.16.1.6</ipAddress>
+  <editableSnippet>
+    <name>template.mustache</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>cssHeader.css</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>jsHeader.js</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>input.json</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>conf.xml</name>
+  </editableSnippet>
+  <cell>
+    <index>FLOW7</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.widgets.bs3_dev_spacer</linkedWidget>
+      <idWithinRootWidget>68</idWithinRootWidget>
+      <label>About Marvin section</label>
+      <label>About Marvin section</label>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW9</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.about_marvin_new</linkedWidget>
+      <idWithinRootWidget>65</idWithinRootWidget>
+      <cell>
+        <index>FLOW-CONTENT1</index>
+        <widget>
+          <linkedWidget>tooltwist-website-2015.zones.bs3_section_container_row</linkedWidget>
+          <idWithinRootWidget>66</idWithinRootWidget>
+          <id>who-we-are</id>
+          <id>who-we-are</id>
+          <cell>
+            <index>FLOW7</index>
+            <widget>
+              <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+              <idWithinRootWidget>89</idWithinRootWidget>
+              <id>who-we-are-footer</id>
+              <class>col-sm-12 text-center</class>
+              <id>who-we-are-footer</id>
+              <class>col-sm-12 text-center</class>
+              <cell>
+                <index>FLOW1</index>
+                <widget>
+                  <linkedWidget>toolbox.richText</linkedWidget>
+                  <idWithinRootWidget>90</idWithinRootWidget>
+                  <description></description>
+                  <text>&lt;h3 style="text-align: center;"&gt;Marvin is awesome. We wish we had a dozen of him.&lt;/h3&gt;</text>
+                  <width></width>
+                  <height></height>
+                  <styleClass></styleClass>
+                </widget>
+              </cell>
+            </widget>
+          </cell>
+          <cell>
+            <index>FLOW9</index>
+            <widget>
+              <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+              <idWithinRootWidget>91</idWithinRootWidget>
+              <id>who-we-are-footer2</id>
+              <class>col-sm-12 highlight text-center</class>
+              <id>who-we-are-footer2</id>
+              <class>col-sm-12 highlight text-center</class>
+              <cell>
+                <index>FLOW1</index>
+                <widget>
+                  <linkedWidget>toolbox.richText</linkedWidget>
+                  <idWithinRootWidget>92</idWithinRootWidget>
+                  <description></description>
+                  <text>&lt;h4&gt;Unfortunately we don't, and Marvin will only work 90 hours a week.&lt;/h4&gt;</text>
+                  <width></width>
+                  <height></height>
+                  <styleClass></styleClass>
+                </widget>
+              </cell>
+            </widget>
+          </cell>
+          <cell>
+            <index>FLOW1</index>
+            <widget>
+              <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+              <idWithinRootWidget>93</idWithinRootWidget>
+              <id>who-we-are-header</id>
+              <class>col-md-12  text-center</class>
+              <id>who-we-are-header</id>
+              <class>col-md-12  text-center</class>
+              <cell>
+                <index>FLOW1</index>
+                <widget>
+                  <linkedWidget>toolbox.richText</linkedWidget>
+                  <idWithinRootWidget>94</idWithinRootWidget>
+                  <description></description>
+                  <text>&lt;h3&gt;Marvin - a dozen specialists in one body.&lt;/h3&gt;</text>
+                  <width></width>
+                  <height></height>
+                  <styleClass></styleClass>
+                </widget>
+              </cell>
+            </widget>
+          </cell>
+          <cell>
+            <index>FLOW3</index>
+            <widget>
+              <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+              <idWithinRootWidget>95</idWithinRootWidget>
+              <id>who-we-are-skills-col1</id>
+              <class>col-sm-6 text-center</class>
+              <id>who-we-are-skills-col1</id>
+              <class>col-sm-6 text-center</class>
+              <cell>
+                <index>FLOW1</index>
+                <widget>
+                  <linkedWidget>toolbox.div</linkedWidget>
+                  <idWithinRootWidget>96</idWithinRootWidget>
+                  <elementId></elementId>
+                  <class>skill-area</class>
+                  <label></label>
+                  <width></width>
+                  <height></height>
+                  <child>
+                    <widget>
+                      <linkedWidget>toolbox.richText</linkedWidget>
+                      <idWithinRootWidget>97</idWithinRootWidget>
+                      <description></description>
+                      <text>&lt;ul&gt;
+&lt;li&gt;World class web developer.&lt;/li&gt;
+&lt;li&gt;Programming guru.&lt;/li&gt;
+&lt;li&gt;Amazing product marketer.&lt;/li&gt;
+&lt;li&gt;A fantastic graphic artist.&lt;/li&gt;
+&lt;li&gt;Knows 497 open source APIs.&lt;/li&gt;
+&lt;li&gt;Writes killer copy.&lt;/li&gt;
+&lt;/ul&gt;</text>
+                      <width></width>
+                      <height></height>
+                      <styleClass></styleClass>
+                      <cell>
+                        <index>FLOW0</index>
+                        <align></align>
+                        <padding-left></padding-left>
+                        <padding-right></padding-right>
+                        <padding-top></padding-top>
+                        <padding-bottom></padding-bottom>
+                        <_initialized>true</_initialized>
+                        <widget>
+                          <linkedWidget>toolbox.richText</linkedWidget>
+                          <idWithinRootWidget>98</idWithinRootWidget>
+                          <description></description>
+                          <text>&lt;h3&gt;Marvin - a dozen specialists in one body.&lt;/h3&gt;</text>
+                          <width></width>
+                          <height></height>
+                          <styleClass></styleClass>
+                        </widget>
+                      </cell>
+                    </widget>
+                  </child>
+                </widget>
+              </cell>
+            </widget>
+          </cell>
+          <cell>
+            <index>FLOW5</index>
+            <widget>
+              <linkedWidget>tooltwist-website-2015.zones.bs3_col</linkedWidget>
+              <idWithinRootWidget>99</idWithinRootWidget>
+              <id>who-we-are-skills-col2</id>
+              <class>col-sm-6 text-center</class>
+              <id>who-we-are-skills-col2</id>
+              <class>col-sm-6 text-center</class>
+              <cell>
+                <index>FLOW1</index>
+                <widget>
+                  <linkedWidget>toolbox.div</linkedWidget>
+                  <idWithinRootWidget>100</idWithinRootWidget>
+                  <elementId></elementId>
+                  <class>skill-area</class>
+                  <label></label>
+                  <width></width>
+                  <height></height>
+                  <child>
+                    <widget>
+                      <linkedWidget>toolbox.richText</linkedWidget>
+                      <idWithinRootWidget>101</idWithinRootWidget>
+                      <description></description>
+                      <text>&lt;ul&gt;
+&lt;li&gt;Integrates any backend system.&lt;/li&gt;
+&lt;li&gt;Creates content that goes viral.&lt;/li&gt;
+&lt;li&gt;Incredible tech support guy.&lt;/li&gt;
+&lt;li&gt;Social media legend.&lt;/li&gt;
+&lt;li&gt;Speaks English, Chinese, Arabic and Swahili.&lt;/li&gt;
+&lt;li&gt;And much more...&lt;/li&gt;
+&lt;/ul&gt;</text>
+                      <width></width>
+                      <height></height>
+                      <styleClass></styleClass>
+                    </widget>
+                  </child>
+                </widget>
+              </cell>
+            </widget>
+          </cell>
+        </widget>
+      </cell>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW11</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.offerings</linkedWidget>
+      <idWithinRootWidget>104</idWithinRootWidget>
+      <backgroundColor>white</backgroundColor>
+      <cell>
+      </cell>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW13</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.widgets.bs3_dev_spacer</linkedWidget>
+      <idWithinRootWidget>69</idWithinRootWidget>
+      <label>Parallax section</label>
+      <label>Parallax section</label>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW25</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.widgets.bs3_dev_spacer</linkedWidget>
+      <idWithinRootWidget>72</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW39</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.not_enough_marvins</linkedWidget>
+      <idWithinRootWidget>14</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW27</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.does_it_work</linkedWidget>
+      <idWithinRootWidget>6</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW1</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.meet_marvin</linkedWidget>
+      <idWithinRootWidget>67</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW37</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.contactDetails</linkedWidget>
+      <idWithinRootWidget>5</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW29</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.home_parallax_3</linkedWidget>
+      <idWithinRootWidget>13</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW3</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.bs3_size_debug</linkedWidget>
+      <idWithinRootWidget>27</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW5</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.junkBuyImage</linkedWidget>
+      <idWithinRootWidget>105</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>HFLOW-INCLUDES1</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.widgets.bs3_styles</linkedWidget>
+      <idWithinRootWidget>103</idWithinRootWidget>
+      <content></content>
+      <description>Stylesheet</description>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW31</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.products_services</linkedWidget>
+      <idWithinRootWidget>7</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW35</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.case_studies</linkedWidget>
+      <idWithinRootWidget>9</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW21</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.widgets.bs3_dev_spacer</linkedWidget>
+      <idWithinRootWidget>71</idWithinRootWidget>
+      <label>Parallax section</label>
+      <label>Parallax section</label>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW33</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.quotes</linkedWidget>
+      <idWithinRootWidget>8</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW41</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.footer</linkedWidget>
+      <idWithinRootWidget>4</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW23</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.home_parallax_2</linkedWidget>
+      <idWithinRootWidget>12</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW15</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.parallax</linkedWidget>
+      <idWithinRootWidget>30</idWithinRootWidget>
+      <height>250px</height>
+      <background>/ttsvr/bs3/img/mobile-2.jpg</background>
+      <ratio>0.6</ratio>
+      <offset>0</offset>
+      <height>250px</height>
+      <background>/ttsvr/bs3/img/mobile-2.jpg</background>
+      <ratio>0.6</ratio>
+      <offset>0</offset>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW17</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.widgets.bs3_dev_spacer</linkedWidget>
+      <idWithinRootWidget>70</idWithinRootWidget>
+      <label>Solution section</label>
+      <label>Solution section</label>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW19</index>
+    <widget>
+      <linkedWidget>tooltwist-website-2015.zones.spanning_skills</linkedWidget>
+      <idWithinRootWidget>2</idWithinRootWidget>
+      <cell>
+        <index>BLAH</index>
+        <widget>
+          <linkedWidget>toolbox.pageTitle</linkedWidget>
+          <idWithinRootWidget>106</idWithinRootWidget>
+          <title>Page Title</title>
+          <size>24</size>
+          <color>3c7fc5</color>
+          <weight>bold</weight>
+        </widget>
+      </cell>
+      <cell>
+        <index>FLOW-BLAH1</index>
+        <widget>
+          <linkedWidget>toolbox.pageTitle</linkedWidget>
+          <idWithinRootWidget>107</idWithinRootWidget>
+          <title>Page Title 1</title>
+          <size>24</size>
+          <color>3c7fc5</color>
+          <weight>bold</weight>
+        </widget>
+      </cell>
+      <cell>
+        <index>FLOW-BLAH3</index>
+        <widget>
+          <linkedWidget>toolbox.pageTitle</linkedWidget>
+          <idWithinRootWidget>108</idWithinRootWidget>
+          <title>Page Title 2</title>
+          <size>24</size>
+          <color>3c7fc5</color>
+          <weight>bold</weight>
+        </widget>
+      </cell>
+    </widget>
+  </cell>
+</widget>

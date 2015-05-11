@@ -1,0 +1,12 @@
+﻿<navpoint>
+  <parent>ZOUSAZUB-2</parent>
+  <name>ZOUSAZUB-6</name>
+  <id>ZOUSAZUB-6</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <codetype></codetype>
+  <label>Casino Fun</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>skyscanner.pages.travel_casino</pageWidget>
+</navpoint>

@@ -1,0 +1,16 @@
+<widgetStatus>
+  <statusHistory>
+    <timeChanged>1339957579950</timeChanged>
+    <status>approved</status>
+    <comment>r</comment>
+    <userCode>null</userCode>
+    <ipAddress>10.0.1.5</ipAddress>
+  </statusHistory>
+  <statusHistory>
+    <timeChanged>1339953510148</timeChanged>
+    <status>pending</status>
+    <comment>Checked</comment>
+    <userCode>adm</userCode>
+    <ipAddress>10.0.1.5</ipAddress>
+  </statusHistory>
+</widgetStatus>
