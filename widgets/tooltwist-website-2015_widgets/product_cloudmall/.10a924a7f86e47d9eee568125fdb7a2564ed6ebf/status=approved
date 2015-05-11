@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431334925945</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1428028219184</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from tooltwist-website-2015.comps.product_tooltwist to tooltwist-website-2015.widgets.product_cloudmall</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.43.143</ipAddress>
+</statusHistory>
+</widgetStatus>

@@ -1,5 +1,12 @@
 ﻿<widgetStatus>
 <statusHistory>
+  <timeChanged>1431335503061</timeChanged>
+  <status>rejected</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
   <timeChanged>1431015268010</timeChanged>
   <status>pending</status>
   <comment>Split Zoura into zones</comment>

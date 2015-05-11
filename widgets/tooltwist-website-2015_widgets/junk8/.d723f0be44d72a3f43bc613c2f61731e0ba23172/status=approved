@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431334984489</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1427388588207</timeChanged>
+  <status>edit</status>
+  <comment>Moved from package-ttdev-new.junk8 to tooltwist-website-2015.widgets.junk8</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.0.115</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1345162883338</timeChanged>
+  <status>edit</status>
+  <comment>Assumed approved prior to v8 migration.</comment>
+  <userCode></userCode>
+  <ipAddress></ipAddress>
+</statusHistory>
+</widgetStatus>

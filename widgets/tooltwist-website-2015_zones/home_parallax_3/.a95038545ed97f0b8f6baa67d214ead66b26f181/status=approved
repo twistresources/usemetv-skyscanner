@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431335104140</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1426922660884</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to tooltwist-website-2015.zones.home_parallax_3</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.5</ipAddress>
+</statusHistory>
+</widgetStatus>
