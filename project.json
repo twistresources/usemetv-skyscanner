@@ -7,5 +7,6 @@
 			"group": "com.tooltwist",
 			"name": "ttStd",
 			"version": "8.3.3-SNAPSHOT"
-		}
+		},
+	"bs3": "com.tooltwist:bs3:0.1.0-SNAPSHOT",
 }
