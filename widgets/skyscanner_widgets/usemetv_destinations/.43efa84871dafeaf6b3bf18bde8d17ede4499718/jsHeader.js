@@ -7,7 +7,7 @@ $(document).ready(function() {
     var backPage = $('#usemetv-backPage').val();
 
 	var config = {
-		wallKey: '12345',
+		wallKey: USEMETV_WALLKEY,
 		menuLabel: 'Types of Travel',
 		home: homePage,
 		controls: [ ],

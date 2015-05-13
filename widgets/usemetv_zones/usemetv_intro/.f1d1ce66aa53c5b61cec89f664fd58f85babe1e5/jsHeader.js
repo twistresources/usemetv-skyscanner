@@ -1,5 +1,18 @@
 // Initialize the UseMe display
 $(document).ready(function() {
+    
+    
+    // Check that Shywall got loaded.
+    // If not, wait a while and reload the page
+    if (typeof(Shywall) == 'undefined') {
+        console.log('Could not load Shywall');
+        var waitTime = 20 * 1000;
+        setTimeout(function() {
+              window.location.reload();
+            }, waitTime);
+        return;
+    }
+
 
 	// Register with Shywall
 console.log('Server: ' + USEMETV_HOST + ':' + USEMETV_PORT);

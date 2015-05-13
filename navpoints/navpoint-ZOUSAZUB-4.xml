@@ -8,5 +8,5 @@
   <label>Sight Seeing</label>
   <url></url>
   <useSSL>N</useSSL>
-  <pageWidget>skyscanner.pages.travel_sightseeing</pageWidget>
+  <pageWidget>skyscanner.pages.prices_sightseeing</pageWidget>
 </navpoint>

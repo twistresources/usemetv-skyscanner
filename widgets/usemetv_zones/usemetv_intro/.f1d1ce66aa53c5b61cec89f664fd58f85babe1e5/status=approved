@@ -1,0 +1,37 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431492461433</timeChanged>
+  <status>approved</status>
+  <comment>v3</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431433971806</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431332154294</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431321056405</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1425723503203</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to metrosix.pages.usemetv_intro</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.59.3</ipAddress>
+</statusHistory>
+</widgetStatus>

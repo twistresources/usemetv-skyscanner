@@ -8,5 +8,5 @@
   <label>Casino Fun</label>
   <url></url>
   <useSSL>N</useSSL>
-  <pageWidget>skyscanner.pages.travel_casino</pageWidget>
+  <pageWidget>skyscanner.pages.prices_casinos</pageWidget>
 </navpoint>

@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431492377256</timeChanged>
+  <status>approved</status>
+  <comment>v3</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431358484198</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from skyscanner.pages.prices_beaches to skyscanner.pages.prices_casinos</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+</widgetStatus>

@@ -8,5 +8,5 @@
   <label>Adventure</label>
   <url></url>
   <useSSL>N</useSSL>
-  <pageWidget>skyscanner.pages.travel_adventure</pageWidget>
+  <pageWidget>skyscanner.pages.prices_adventure</pageWidget>
 </navpoint>
