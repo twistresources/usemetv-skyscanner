@@ -1,12 +1,12 @@
 {
-        "tooltwist": "com.tooltwist:tooltwist:8.3.3-SNAPSHOT",
-	"ttWbd": "com.tooltwist:ttWbd:8.3.3-SNAPSHOT",
+        "tooltwist": "com.tooltwist:tooltwist:8.5.0-SNAPSHOT",
+	"ttWbd": "com.tooltwist:ttWbd:8.5.0-SNAPSHOT",
         "ttStd": {
 			"type": "extension",
 			"location": "repo",
 			"group": "com.tooltwist",
 			"name": "ttStd",
-			"version": "8.3.3-SNAPSHOT"
+			"version": "8.5.0-SNAPSHOT"
 		},
 	"bs3": "com.tooltwist:bs3:0.1.0-SNAPSHOT"
 }

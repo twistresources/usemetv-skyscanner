@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1431922203969</timeChanged>
+  <status>approved</status>
+  <comment>Version used in demo</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431600625308</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.cropImage to skyscanner.destinations.ko_samui</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+</widgetStatus>

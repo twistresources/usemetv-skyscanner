@@ -21,14 +21,53 @@
     <name>conf.xml</name>
   </editableSnippet>
   <cell>
-    <index>HFLOW-INCLUDES3</index>
+    <index>FLOW:1</index>
     <widget>
-      <linkedWidget>usemetv.widgets.displayPage</linkedWidget>
-      <idWithinRootWidget>7</idWithinRootWidget>
+      <linkedWidget>skyscanner.images.logo1</linkedWidget>
+      <idWithinRootWidget>1</idWithinRootWidget>
+      <description></description>
+      <jumpTo></jumpTo>
+      <suffix></suffix>
+      <crop>N</crop>
+      <shrink>Y</shrink>
+      <doCrop></doCrop>
+      <cropX></cropX>
+      <cropY></cropY>
+      <cropWidth></cropWidth>
+      <cropHeight></cropHeight>
+      <width></width>
+      <height></height>
+      <tint></tint>
+      <annotation></annotation>
+      <resizeMode></resizeMode>
+      <resizeWidth></resizeWidth>
+      <resizeHeight></resizeHeight>
+      <resizePercentage></resizePercentage>
+      <cornerWidth></cornerWidth>
+      <cornerHeight></cornerHeight>
+      <whichCorner></whichCorner>
     </widget>
   </cell>
   <cell>
-    <index>FLOW7</index>
+    <index>FLOW:3</index>
+    <widget>
+      <linkedWidget>toolbox.pageTitle</linkedWidget>
+      <idWithinRootWidget>5</idWithinRootWidget>
+      <title>Beaches</title>
+      <size>24</size>
+      <color>3c7fc5</color>
+      <weight>bold</weight>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:5</index>
+    <widget>
+      <linkedWidget>skyscanner.widgets.priceByDates</linkedWidget>
+      <idWithinRootWidget>2</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:7</index>
     <widget>
       <linkedWidget>toolbox.div</linkedWidget>
       <idWithinRootWidget>3</idWithinRootWidget>
@@ -67,56 +106,17 @@
     </widget>
   </cell>
   <cell>
-    <index>FLOW1</index>
-    <widget>
-      <linkedWidget>skyscanner.images.logo1</linkedWidget>
-      <idWithinRootWidget>1</idWithinRootWidget>
-      <description></description>
-      <jumpTo></jumpTo>
-      <suffix></suffix>
-      <crop>N</crop>
-      <shrink>Y</shrink>
-      <doCrop></doCrop>
-      <cropX></cropX>
-      <cropY></cropY>
-      <cropWidth></cropWidth>
-      <cropHeight></cropHeight>
-      <width></width>
-      <height></height>
-      <tint></tint>
-      <annotation></annotation>
-      <resizeMode></resizeMode>
-      <resizeWidth></resizeWidth>
-      <resizeHeight></resizeHeight>
-      <resizePercentage></resizePercentage>
-      <cornerWidth></cornerWidth>
-      <cornerHeight></cornerHeight>
-      <whichCorner></whichCorner>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW3</index>
-    <widget>
-      <linkedWidget>toolbox.pageTitle</linkedWidget>
-      <idWithinRootWidget>5</idWithinRootWidget>
-      <title>Beaches</title>
-      <size>24</size>
-      <color>3c7fc5</color>
-      <weight>bold</weight>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW5</index>
-    <widget>
-      <linkedWidget>skyscanner.widgets.priceByDates</linkedWidget>
-      <idWithinRootWidget>2</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>HFLOW-INCLUDES1</index>
+    <index>HFLOW-INCLUDES:1</index>
     <widget>
       <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
       <idWithinRootWidget>6</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>HFLOW-INCLUDES:3</index>
+    <widget>
+      <linkedWidget>usemetv.widgets.displayPage</linkedWidget>
+      <idWithinRootWidget>7</idWithinRootWidget>
     </widget>
   </cell>
 </widget>
