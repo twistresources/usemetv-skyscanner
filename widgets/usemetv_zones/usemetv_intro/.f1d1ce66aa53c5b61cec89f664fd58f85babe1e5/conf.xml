@@ -22,10 +22,10 @@
     <name>conf.xml</name>
   </editableSnippet>
   <cell>
-    <index>FLOW-PICTURE1</index>
+    <index>FLOW-BOTTOM:1</index>
     <widget>
-      <linkedWidget>usemetv.images.hand_and_display2</linkedWidget>
-      <idWithinRootWidget>2</idWithinRootWidget>
+      <linkedWidget>usemetv.images.usemetv_logo</linkedWidget>
+      <idWithinRootWidget>1</idWithinRootWidget>
       <description></description>
       <jumpTo></jumpTo>
       <suffix></suffix>
@@ -50,10 +50,10 @@
     </widget>
   </cell>
   <cell>
-    <index>FLOW-BOTTOM1</index>
+    <index>FLOW-PICTURE1</index>
     <widget>
-      <linkedWidget>usemetv.images.usemetv_logo</linkedWidget>
-      <idWithinRootWidget>1</idWithinRootWidget>
+      <linkedWidget>usemetv.images.hand_and_display2</linkedWidget>
+      <idWithinRootWidget>2</idWithinRootWidget>
       <description></description>
       <jumpTo></jumpTo>
       <suffix></suffix>

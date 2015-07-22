@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <parent>ZOUSAZUB-9</parent>
+  <name>ZOUSAZUB-10</name>
+  <id>ZOUSAZUB-10</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>te-home</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>techelite.pages.home</pageWidget>
+</navpoint>

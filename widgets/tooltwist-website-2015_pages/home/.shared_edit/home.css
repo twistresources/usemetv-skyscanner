@@ -1,0 +1,101 @@
+/**
+ *  Page CSS - always gets included in this page.
+ */
+
+/* body tag, only in the ToolTwist designer */
+.body-designer {
+}
+
+
+/* Who we are section (actually, this is the description of Marvin's skills) */
+#who-we-are {
+    zcolor: red;
+}
+
+#who-we-are-header {
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+
+#who-we-are-skills-col1 div {
+    display: inline-block;
+}
+
+#who-we-are-skills-col1 ul {
+    margin: 0px;
+    text-align: left;
+}
+
+#who-we-are-skills-col1 div {
+    display: inline-block;
+}
+
+#who-we-are-skills-col2 ul {
+    margin: 0px;
+    text-align: left;
+}
+
+#who-we-are-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#who-we-are-footer2 {
+    color: #409900;
+    margin-bottom: 30px !important;
+}
+
+
+.skill-area {
+    display: inline-block;
+    width: 310px;
+    zbackground-color: red;
+    color: #ccc;
+}
+
+/*
+.bs3-col-property-label {
+	display: inline-block;
+    width: 30px;
+    height: 12px;
+    text-align: right;
+    padding-right: 3px;
+}
+
+.bs3-col-property-selector {
+	display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-top: solid 1px black;
+    border-right: solid 1px black;
+    border-bottom: solid 1px black;
+    margin-top: 2px;
+}
+
+
+.bs3-col-property-selector-first {
+	zdisplay: inline-block;
+    zwidth: 10px;
+    zheight: 10px;
+    border: solid 1px black;
+}
+
+.bs3-col-property-selected {
+    background-color: #afa;
+}
+
+.bs3-col-property-head-1 {
+	display: inline-block;
+    width: 12px;
+    text-align: right;
+}
+
+.bs3-col-property-head-3 {
+	display: inline-block;
+    width: 33px;
+    text-align: right;
+    margin-top: 8px;
+}
+*/
+
+

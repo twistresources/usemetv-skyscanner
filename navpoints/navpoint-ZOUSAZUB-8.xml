@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <parent>tooltwist-website-2015</parent>
+  <name>ZOUSAZUB-8</name>
+  <id>ZOUSAZUB-8</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>bs3_example</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>ZOUSAZUB.examples.bootstrap_page</pageWidget>
+</navpoint>

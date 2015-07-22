@@ -22,42 +22,28 @@
     <name>conf.xml</name>
   </editableSnippet>
   <cell>
-    <index>FLOW7</index>
-    <widget>
-      <linkedWidget>skyscanner.widgets.instructions</linkedWidget>
-      <idWithinRootWidget>7</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW9</index>
-    <widget>
-      <linkedWidget>usemetv.widgets.usemetv_fixed_logo</linkedWidget>
-      <idWithinRootWidget>19</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW11</index>
-    <widget>
-      <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
-      <idWithinRootWidget>18</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW13</index>
-    <widget>
-      <linkedWidget>usemetv.widgets.displayPage</linkedWidget>
-      <idWithinRootWidget>17</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW1</index>
+    <index>FLOW:1</index>
     <widget>
       <linkedWidget>skyscanner.zones.heading</linkedWidget>
       <idWithinRootWidget>15</idWithinRootWidget>
     </widget>
   </cell>
   <cell>
-    <index>FLOW3</index>
+    <index>FLOW:11</index>
+    <widget>
+      <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
+      <idWithinRootWidget>18</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:13</index>
+    <widget>
+      <linkedWidget>usemetv.widgets.displayPage</linkedWidget>
+      <idWithinRootWidget>17</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:3</index>
     <widget>
       <linkedWidget>skyscanner.zones.subheading</linkedWidget>
       <idWithinRootWidget>13</idWithinRootWidget>
@@ -78,10 +64,24 @@
     </widget>
   </cell>
   <cell>
-    <index>FLOW5</index>
+    <index>FLOW:5</index>
     <widget>
       <linkedWidget>skyscanner.zones.travel_types</linkedWidget>
       <idWithinRootWidget>16</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:7</index>
+    <widget>
+      <linkedWidget>skyscanner.widgets.instructions</linkedWidget>
+      <idWithinRootWidget>7</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:9</index>
+    <widget>
+      <linkedWidget>usemetv.widgets.usemetv_fixed_logo</linkedWidget>
+      <idWithinRootWidget>19</idWithinRootWidget>
     </widget>
   </cell>
 </widget>

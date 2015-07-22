@@ -22,7 +22,63 @@
     <name>conf.xml</name>
   </editableSnippet>
   <cell>
-    <index>FLOW7</index>
+    <index>FLOW:1</index>
+    <widget>
+      <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
+      <idWithinRootWidget>21</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:11</index>
+    <widget>
+      <linkedWidget>usemetv.zones.usemetv_intro</linkedWidget>
+      <idWithinRootWidget>19</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:13</index>
+    <widget>
+      <linkedWidget>usemetv.widgets.usemetv_fixed_logo</linkedWidget>
+      <idWithinRootWidget>22</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:15</index>
+    <widget>
+      <linkedWidget>skyscanner.zones.hundredsOfFlights</linkedWidget>
+      <idWithinRootWidget>17</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:3</index>
+    <widget>
+      <linkedWidget>skyscanner.zones.heading</linkedWidget>
+      <idWithinRootWidget>15</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:5</index>
+    <widget>
+      <linkedWidget>skyscanner.zones.subheading</linkedWidget>
+      <idWithinRootWidget>13</idWithinRootWidget>
+      <cell>
+        <index>FLOW-SUBHEADING1</index>
+        <widget>
+          <linkedWidget>toolbox.richText</linkedWidget>
+          <idWithinRootWidget>14</idWithinRootWidget>
+          <description></description>
+          <text>&lt;h1&gt;Cheap flight finder&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+          <width></width>
+          <height></height>
+          <styleClass></styleClass>
+        </widget>
+      </cell>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:7</index>
     <widget>
       <linkedWidget>skyscanner.zones.needABreak</linkedWidget>
       <idWithinRootWidget>10</idWithinRootWidget>
@@ -44,66 +100,10 @@
     </widget>
   </cell>
   <cell>
-    <index>FLOW9</index>
+    <index>FLOW:9</index>
     <widget>
       <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
       <idWithinRootWidget>23</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW11</index>
-    <widget>
-      <linkedWidget>usemetv.zones.usemetv_intro</linkedWidget>
-      <idWithinRootWidget>19</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW13</index>
-    <widget>
-      <linkedWidget>usemetv.widgets.usemetv_fixed_logo</linkedWidget>
-      <idWithinRootWidget>22</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW15</index>
-    <widget>
-      <linkedWidget>skyscanner.zones.hundredsOfFlights</linkedWidget>
-      <idWithinRootWidget>17</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW1</index>
-    <widget>
-      <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
-      <idWithinRootWidget>21</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW3</index>
-    <widget>
-      <linkedWidget>skyscanner.zones.heading</linkedWidget>
-      <idWithinRootWidget>15</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW5</index>
-    <widget>
-      <linkedWidget>skyscanner.zones.subheading</linkedWidget>
-      <idWithinRootWidget>13</idWithinRootWidget>
-      <cell>
-        <index>FLOW-SUBHEADING1</index>
-        <widget>
-          <linkedWidget>toolbox.richText</linkedWidget>
-          <idWithinRootWidget>14</idWithinRootWidget>
-          <description></description>
-          <text>&lt;h1&gt;Cheap flight finder&lt;/h1&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
-          <width></width>
-          <height></height>
-          <styleClass></styleClass>
-        </widget>
-      </cell>
     </widget>
   </cell>
 </widget>
