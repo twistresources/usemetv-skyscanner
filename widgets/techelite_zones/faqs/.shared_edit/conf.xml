@@ -1,0 +1,24 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.GenericMustacheWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <parentVersion>2bea084fb85c4695b81e7cb2d273a829</parentVersion>
+  <updateTime>1437527667515</updateTime>
+  <shortDesc>Forked for group editing</shortDesc>
+  <updatedBy>philipcallender</updatedBy>
+  <ipAddress>192.168.1.105</ipAddress>
+  <editableSnippet>
+    <name>template.mustache</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>cssHeader.css</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>jsHeader.js</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>input.json</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>conf.xml</name>
+  </editableSnippet>
+</widget>

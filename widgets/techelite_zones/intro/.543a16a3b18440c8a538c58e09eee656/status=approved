@@ -1,0 +1,30 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528910772</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437528280166</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437528278095</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437253055751</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from bs3-examples.zones.about to techelite.zones.intro</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>

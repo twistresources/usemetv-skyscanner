@@ -1,0 +1,30 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528695052</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437527819934</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437527817982</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1436372038780</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to b3-examples.zones.home_slideshow</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.9</ipAddress>
+</statusHistory>
+</widgetStatus>

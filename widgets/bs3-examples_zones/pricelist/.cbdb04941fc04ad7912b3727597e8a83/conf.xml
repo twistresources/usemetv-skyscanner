@@ -1,0 +1,23 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.GenericMustacheWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <updateTime>1437527758399</updateTime>
+  <shortDesc>v1</shortDesc>
+  <updatedBy>philipcallender</updatedBy>
+  <ipAddress>192.168.1.105</ipAddress>
+  <editableSnippet>
+    <name>template.mustache</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>cssHeader.css</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>jsHeader.js</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>input.json</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>conf.xml</name>
+  </editableSnippet>
+</widget>

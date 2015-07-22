@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528234627</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437528233067</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1436948668890</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from bs3-examples.zones.quotes to techelite.zones.are_you_looking</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>10.0.1.110</ipAddress>
+</statusHistory>
+</widgetStatus>

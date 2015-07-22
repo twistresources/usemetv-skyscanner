@@ -1,0 +1,30 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528871796</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437527680415</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437527678686</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1436851451492</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from ZOUSAZUB.examples.bootstrap_page to techelite.pages.home</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>10.0.10.182</ipAddress>
+</statusHistory>
+</widgetStatus>

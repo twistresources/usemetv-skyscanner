@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528637807</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1436356886407</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.stylesheet_template to bs3-examples.css.css_default</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.9</ipAddress>
+</statusHistory>
+</widgetStatus>

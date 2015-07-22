@@ -1,0 +1,51 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528980528</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437528356698</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431324144351</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431324108008</timeChanged>
+  <status>pending</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431323646434</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431320869498</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431231264651</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from tooltwist-website-2015.pages.idle1 to skyscanner.pages.price_page</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+</widgetStatus>

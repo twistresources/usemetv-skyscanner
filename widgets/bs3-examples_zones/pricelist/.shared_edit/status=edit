@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437527759943</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437527758403</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1436374468612</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to bs3-examples.zones.pricelist</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.9</ipAddress>
+</statusHistory>
+</widgetStatus>

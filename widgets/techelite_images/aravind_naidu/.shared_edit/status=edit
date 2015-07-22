@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528012589</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437528009276</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1436946663708</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.cropImage to techelite.images.aravind_naidu</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>10.0.1.110</ipAddress>
+</statusHistory>
+</widgetStatus>

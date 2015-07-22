@@ -1,0 +1,44 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528984627</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437528359599</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431492401676</timeChanged>
+  <status>approved</status>
+  <comment>v3</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431492396450</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431492383871</timeChanged>
+  <status>approved</status>
+  <comment>v3</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431358999553</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from skyscanner.pages.prices_beaches to skyscanner.pages.prices_adventure</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+</widgetStatus>

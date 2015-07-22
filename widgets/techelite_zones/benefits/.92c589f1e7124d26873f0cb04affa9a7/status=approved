@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1437528244552</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>192.168.1.105</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1437191903028</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from techelite.zones.about_us to techelite.zones.benefits</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.3</ipAddress>
+</statusHistory>
+</widgetStatus>

@@ -21,42 +21,28 @@
     <name>conf.xml</name>
   </editableSnippet>
   <cell>
-    <index>FLOW7</index>
-    <widget>
-      <linkedWidget>skyscanner.widgets.priceByDates</linkedWidget>
-      <idWithinRootWidget>22</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW9</index>
-    <widget>
-      <linkedWidget>skyscanner.widgets.usemetv_destinations</linkedWidget>
-      <idWithinRootWidget>23</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW11</index>
-    <widget>
-      <linkedWidget>skyscanner.zones.hundredsOfFlights</linkedWidget>
-      <idWithinRootWidget>17</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW1</index>
+    <index>FLOW:1</index>
     <widget>
       <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
       <idWithinRootWidget>21</idWithinRootWidget>
     </widget>
   </cell>
   <cell>
-    <index>FLOW3</index>
+    <index>FLOW:11</index>
+    <widget>
+      <linkedWidget>skyscanner.zones.hundredsOfFlights</linkedWidget>
+      <idWithinRootWidget>17</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:3</index>
     <widget>
       <linkedWidget>skyscanner.zones.heading</linkedWidget>
       <idWithinRootWidget>15</idWithinRootWidget>
     </widget>
   </cell>
   <cell>
-    <index>FLOW5</index>
+    <index>FLOW:5</index>
     <widget>
       <linkedWidget>skyscanner.zones.subheading</linkedWidget>
       <idWithinRootWidget>13</idWithinRootWidget>
@@ -74,6 +60,20 @@
           <styleClass></styleClass>
         </widget>
       </cell>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:7</index>
+    <widget>
+      <linkedWidget>skyscanner.widgets.priceByDates</linkedWidget>
+      <idWithinRootWidget>22</idWithinRootWidget>
+    </widget>
+  </cell>
+  <cell>
+    <index>FLOW:9</index>
+    <widget>
+      <linkedWidget>skyscanner.widgets.usemetv_destinations</linkedWidget>
+      <idWithinRootWidget>23</idWithinRootWidget>
     </widget>
   </cell>
 </widget>
