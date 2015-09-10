@@ -1,0 +1,14 @@
+/* LOGO */
+#usemetv-fixed-logo {
+    position: absolute;
+    top: 1225px;
+    zborder-top: 1px solid #121212;
+    border-top: 1px solid #99a;
+    left: auto;
+    right: auto;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: #eee;
+}

@@ -1,0 +1,5 @@
+var USEMETV_HOST = '172.16.1.6';
+//var USEMETV_HOST = '127.0.0.1';
+//var USEMETV_HOST = '192.168.43.143';
+var USEMETV_PORT = 9080;
+var USEMETV_WALLKEY = 'xxxxxxxxxxxx';

@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1441847522553</timeChanged>
+  <status>approved</status>
+  <comment>Version for demo</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.94</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1441847508649</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.94</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1392040574240</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustachePage_template to tooltwist-website-2015.pages.junkPage1</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.111.1</ipAddress>
+</statusHistory>
+</widgetStatus>

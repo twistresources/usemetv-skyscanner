@@ -1,0 +1,13 @@
+.ZZskyscanner-subheading h1 {
+    font-size: 50px !important;
+}
+#skyscanner-subheading {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    zbackground-color: red;
+}
+#skyscanner-subheading h1 {
+    color: #42c5d4;
+    zcolor: white;
+}
+
