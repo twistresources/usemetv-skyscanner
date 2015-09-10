@@ -1,0 +1,44 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1441848869072</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.94</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1441691775062</timeChanged>
+  <status>approved</status>
+  <comment>Used in final version</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.94</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431577443344</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431332052380</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431320934449</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1430838016796</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.mustacheWidget_template to skyscanner.zones.subheading</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>

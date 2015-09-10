@@ -1,0 +1,44 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1441848922911</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.94</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431325458774</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431325219630</timeChanged>
+  <status>pending</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431320888177</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431320860298</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431016570313</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from tooltwist-website-2015.pages.skyscanner to skyscanner.pages.travel_sightseeing</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>

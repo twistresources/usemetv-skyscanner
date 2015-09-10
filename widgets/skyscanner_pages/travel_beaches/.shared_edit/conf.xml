@@ -1,10 +1,11 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
   <idWithinRootWidget></idWithinRootWidget>
-  <updateTime>1431324935374</updateTime>
-  <shortDesc>v1</shortDesc>
-  <updatedBy>philipcallender</updatedBy>
-  <ipAddress>172.16.1.6</ipAddress>
+  <parentVersion>c62659980676caec6bde41bb951f127087e137a7</parentVersion>
+  <updateTime>1441848911351</updateTime>
+  <shortDesc>Forked for group editing</shortDesc>
+  <updatedBy>root</updatedBy>
+  <ipAddress>172.17.0.94</ipAddress>
   <editableSnippet>
     <name>template.mustache</name>
   </editableSnippet>
@@ -53,7 +54,7 @@
     <widget>
       <linkedWidget>toolbox.pageTitle</linkedWidget>
       <idWithinRootWidget>5</idWithinRootWidget>
-      <title>Sight Seeing</title>
+      <title>Beaches</title>
       <size>24</size>
       <color>3c7fc5</color>
       <weight>bold</weight>

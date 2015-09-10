@@ -1,10 +1,11 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
   <idWithinRootWidget></idWithinRootWidget>
-  <updateTime>1431324935374</updateTime>
-  <shortDesc>v1</shortDesc>
-  <updatedBy>philipcallender</updatedBy>
-  <ipAddress>172.16.1.6</ipAddress>
+  <parentVersion>ee6f27f0f1448803c2e8bfa85cb4012e069d49a6</parentVersion>
+  <updateTime>1441848927231</updateTime>
+  <shortDesc>Forked for group editing</shortDesc>
+  <updatedBy>root</updatedBy>
+  <ipAddress>172.17.0.94</ipAddress>
   <editableSnippet>
     <name>template.mustache</name>
   </editableSnippet>
@@ -51,23 +52,12 @@
   <cell>
     <index>FLOW:3</index>
     <widget>
-      <linkedWidget>toolbox.pageTitle</linkedWidget>
-      <idWithinRootWidget>5</idWithinRootWidget>
-      <title>Sight Seeing</title>
-      <size>24</size>
-      <color>3c7fc5</color>
-      <weight>bold</weight>
-    </widget>
-  </cell>
-  <cell>
-    <index>FLOW:5</index>
-    <widget>
       <linkedWidget>skyscanner.widgets.priceByDates</linkedWidget>
       <idWithinRootWidget>2</idWithinRootWidget>
     </widget>
   </cell>
   <cell>
-    <index>FLOW:7</index>
+    <index>FLOW:5</index>
     <widget>
       <linkedWidget>toolbox.div</linkedWidget>
       <idWithinRootWidget>3</idWithinRootWidget>
@@ -103,20 +93,6 @@
           <whichCorner></whichCorner>
         </widget>
       </child>
-    </widget>
-  </cell>
-  <cell>
-    <index>HFLOW-INCLUDES:1</index>
-    <widget>
-      <linkedWidget>usemetv.zones.usemetv_config</linkedWidget>
-      <idWithinRootWidget>6</idWithinRootWidget>
-    </widget>
-  </cell>
-  <cell>
-    <index>HFLOW-INCLUDES:3</index>
-    <widget>
-      <linkedWidget>usemetv.widgets.displayPage</linkedWidget>
-      <idWithinRootWidget>7</idWithinRootWidget>
     </widget>
   </cell>
 </widget>

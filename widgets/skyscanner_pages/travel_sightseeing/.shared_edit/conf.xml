@@ -1,10 +1,11 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
   <idWithinRootWidget></idWithinRootWidget>
-  <updateTime>1431324935374</updateTime>
-  <shortDesc>v1</shortDesc>
-  <updatedBy>philipcallender</updatedBy>
-  <ipAddress>172.16.1.6</ipAddress>
+  <parentVersion>a46700ee3939bbc283a75b7467251876caf7332e</parentVersion>
+  <updateTime>1441848922911</updateTime>
+  <shortDesc>Forked for group editing</shortDesc>
+  <updatedBy>root</updatedBy>
+  <ipAddress>172.17.0.94</ipAddress>
   <editableSnippet>
     <name>template.mustache</name>
   </editableSnippet>

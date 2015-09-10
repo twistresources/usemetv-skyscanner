@@ -1,0 +1,58 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1441848911351</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.94</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431325545783</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431325519711</timeChanged>
+  <status>pending</status>
+  <comment>v1</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431324757507</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431324293972</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431321234104</timeChanged>
+  <status>approved</status>
+  <comment>http://172.16.1.6:50505/ttsvr/designer#ZOUSAZUB/widget/skyscanner.pages.prices_beaches</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431320881698</timeChanged>
+  <status>approved</status>
+  <comment>v1</comment>
+  <userCode>null</userCode>
+  <ipAddress>172.16.1.6</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1431016622911</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from skyscanner.pages.travel_casino to skyscanner.pages.travel_beaches</comment>
+  <userCode>philipcallender</userCode>
+  <ipAddress>172.16.1.8</ipAddress>
+</statusHistory>
+</widgetStatus>
