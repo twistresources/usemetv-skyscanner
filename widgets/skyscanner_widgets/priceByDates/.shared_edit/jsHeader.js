@@ -5,22 +5,24 @@ var PricesByDate = (function() {
     
     // In Singapore
     /*
+    */
     var market = 'SG';
     var currency = 'SGD';
     var locale = 'en-GB';
     var originPlace = 'SIN';
-    */
 
     // In the office
+    /*
     var market = 'PH';
     var currency = 'USD';
     var locale = 'en-GB';
     var originPlace = 'MNL';
+    */
 
     
     //    var destinationPlace = 'SYD';
-    var outboundPartialDate = '2015-07';
-    var inboundPartialDate = '2015-07';
+    var outboundPartialDate = '2016-02';
+    var inboundPartialDate = '2016-02';
     var apiKey = 'us946858489256834188944854188586';
     
 
