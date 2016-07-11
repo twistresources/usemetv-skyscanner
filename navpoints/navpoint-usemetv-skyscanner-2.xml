@@ -1,0 +1,10 @@
+﻿<navpoint>
+  <parent>usemetv-skyscanner-1</parent>
+  <name>usemetv-skyscanner-2</name>
+  <id>usemetv-skyscanner-2</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>New Navpoint</label>
+  <url></url>
+  <useSSL>N</useSSL>
+</navpoint>

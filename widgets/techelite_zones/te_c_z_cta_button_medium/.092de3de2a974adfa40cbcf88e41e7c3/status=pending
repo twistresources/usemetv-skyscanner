@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1438703513238</timeChanged>
+  <status>pending</status>
+  <comment> </comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1438702458352</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from techelite.zones.te_c_z_cta_button_big to techelite.zones.te_c_z_cta_button_medium</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+</widgetStatus>

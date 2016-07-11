@@ -1,0 +1,10 @@
+﻿<navpoint>
+  <parent>ZOUSAZUB-9</parent>
+  <name>usemetv-skyscanner-1</name>
+  <id>usemetv-skyscanner-1</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>New Navpoint</label>
+  <url></url>
+  <useSSL>N</useSSL>
+</navpoint>

@@ -6,6 +6,7 @@
   <type>page</type>
   <label>te-home</label>
   <url></url>
+  <pageTitle>Tech Elite</pageTitle>
   <useSSL>N</useSSL>
   <pageWidget>techelite.pages.home</pageWidget>
 </navpoint>

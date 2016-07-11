@@ -3,9 +3,7 @@
   <idWithinRootWidget>0</idWithinRootWidget>
   <parentVersion>5d1178adb39e480886207b8c670197bd</parentVersion>
   <updateTime>1437527995597</updateTime>
-  <shortDesc>Forked for group editing</shortDesc>
-  <updatedBy>philipcallender</updatedBy>
-  <ipAddress>192.168.1.105</ipAddress>
+  <updatedBy>shared</updatedBy>
   <content>@charset "utf-8";
 /*
 ---------------
@@ -438,7 +436,7 @@ h2 small {
     transition: all 0.6s ease;
 }
 #home-slideshow {
-    top: -70px;
+    /*top: -70px;*/
 }
 .navbar-brand {
 	float: left;
@@ -675,6 +673,7 @@ h2 small {
 #about {
 	padding-top: 0px;
 	padding-bottom: 60px;
+    margin-top: -100px;
 }
 .section-title-about {
 	text-align: center;
@@ -1051,7 +1050,7 @@ width:110px;
 }
 /* ==== 11) Services ==== */
 #services {
-	padding-top: 60px;
+	padding-top: 130px;
 	padding-bottom: 60px;
 }
 .section-title {

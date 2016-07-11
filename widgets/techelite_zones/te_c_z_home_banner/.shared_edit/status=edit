@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1438672637630</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1438672636038</timeChanged>
+  <status>pending</status>
+  <comment> </comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1438591696605</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from techelite.zones.roles to techelite.zones.te_c_z_home_banner</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+</widgetStatus>

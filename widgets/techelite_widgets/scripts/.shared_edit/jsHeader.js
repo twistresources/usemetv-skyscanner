@@ -14,7 +14,7 @@ Liquid Slider - Home Text Slider
 
 $('#slider-home').liquidSlider({
 	  autoSlide:          true,
-	  autoSlideInterval:  4500,
+	  autoSlideInterval:  9000,
 	  autoSlideControls:  true,
 	  forceAutoSlide: true,
 	  dynamicArrows: false,
@@ -302,7 +302,7 @@ Google Maps
 $("#map").gmap3({
     marker:{     
 	//address:"07A Clark Center, Jose Abad Santos Avenue, Clark Freeport Zone, Pampanga, Philippines 2023",
-	//address:"93 Worth St, New York, NY", 
+	//address:"93 Worth St, New York, NY",
 	latLng:[15.1775207, 120.5265234],
 	options:{ icon: "/ttsvr/cropImage/bs3-examples.img.marker.png"}},
     map:{
@@ -531,7 +531,7 @@ Smooth Scroll To Anchor
 
 //jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
-    $('#main-nav a,.footer-menu a').bind('click', function(event) {
+    $('#main-nav a,.footer-menu a, #faq p a, a[href^="#"]').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - 70
