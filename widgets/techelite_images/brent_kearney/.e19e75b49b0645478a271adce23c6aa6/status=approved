@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1481786679042</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1481784455098</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from techelite.images.aravind_naidu to techelite.images.brent_kearney</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.102</ipAddress>
+</statusHistory>
+</widgetStatus>

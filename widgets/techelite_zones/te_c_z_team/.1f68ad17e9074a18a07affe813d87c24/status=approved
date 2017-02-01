@@ -1,0 +1,37 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1481786699101</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1438672709221</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1438672708027</timeChanged>
+  <status>pending</status>
+  <comment> </comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1438591853354</timeChanged>
+  <status>edit</status>
+  <comment>Moved from techelite.zones.te_c_z_job_team to techelite.zones.te_c_z_team</comment>
+  <userCode>root</userCode>
+  <ipAddress>172.17.0.45</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1345162883338</timeChanged>
+  <status>edit</status>
+  <comment>Assumed approved prior to v8 migration.</comment>
+  <userCode></userCode>
+  <ipAddress></ipAddress>
+</statusHistory>
+</widgetStatus>

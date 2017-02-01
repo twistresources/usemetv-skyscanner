@@ -1,8 +1,11 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
   <idWithinRootWidget></idWithinRootWidget>
-  <updateTime>1438672558487</updateTime>
-  <updatedBy>shared</updatedBy>
+  <parentVersion>shared_edit</parentVersion>
+  <updateTime>1481860382785</updateTime>
+  <shortDesc> </shortDesc>
+  <updatedBy>root</updatedBy>
+  <ipAddress>172.17.0.102</ipAddress>
   <editableSnippet>
     <name>template.mustache</name>
   </editableSnippet>
@@ -29,10 +32,10 @@
           <linkedWidget>toolbox.richText</linkedWidget>
           <idWithinRootWidget>103</idWithinRootWidget>
           <description></description>
-          <text>&lt;h2 style="text-align: center;"&gt;&lt;span class="s1"&gt;Providing IT staffing solutions &lt;/span&gt;&lt;/h2&gt;
-&lt;h2 style="text-align: center;"&gt;&lt;span class="s1"&gt;that will&amp;nbsp;&lt;/span&gt;&lt;span class="s2" style="color: #00ccff;"&gt;transform your business&lt;/span&gt;&lt;span class="s3"&gt;.&lt;/span&gt;&lt;/h2&gt;
+          <text>&lt;h2 style="text-align: center;"&gt;&lt;span class="s1"&gt;Providing&amp;nbsp;affordable top-shelf technical staff&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 style="text-align: center;"&gt;&lt;span class="s1"&gt;to&amp;nbsp;&lt;/span&gt;&lt;span class="s2" style="color: #00ccff;"&gt;improve your business&lt;/span&gt;&lt;span class="s3"&gt;.&lt;/span&gt;&lt;/h2&gt;
 &lt;p class="p4"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="p4" style="text-align: center;"&gt;&lt;span class="s1" style="font-size: 18pt;"&gt;&lt;strong&gt;We do this by identifying the top 2% of IT staff in the Philippines to work directly for your business, in our facility, with our support.&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p4" style="text-align: center;"&gt;&lt;span class="s1" style="font-size: 18pt;"&gt;&lt;strong&gt;Our mission is to identify the top 2% of technical staff in the Philippines, and make them available to work directly for your business, in our facility, with our support. We recruit the best Engineers, IT support, Estimators, Draftsmen, Sales Support and more.&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
           <width></width>
           <height></height>
@@ -1138,7 +1141,7 @@
           <linkedWidget>toolbox.richText</linkedWidget>
           <idWithinRootWidget>122</idWithinRootWidget>
           <description></description>
-          <text>&lt;h4&gt;&lt;span style="font-size: 24pt;"&gt;Application and Web Developement&lt;/span&gt;&lt;/h4&gt;</text>
+          <text>&lt;h4&gt;&lt;span style="font-size: 24pt;"&gt;Application and Web Development&lt;/span&gt;&lt;/h4&gt;</text>
           <width></width>
           <height></height>
           <styleClass></styleClass>
@@ -1150,14 +1153,11 @@
           <linkedWidget>toolbox.richText</linkedWidget>
           <idWithinRootWidget>144</idWithinRootWidget>
           <description></description>
-          <text>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Senior Developer / Team Leader&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span class="s1" style="font-size: 12pt;"&gt;The leader of your offshore development team must have the right background, experience and be thoroughly tested for skills. &amp;nbsp;This is one of the most sought-after skillsets in the Philippines, so wages are around one third of Australian rates instead of the usual one fifth.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="color: #99cc00; font-size: 12pt;"&gt;Salary Range: AU $32,000 - AU $59,000 per year &amp;nbsp;(includes all government mandated benefits).&lt;/span&gt;&lt;/p&gt;
+          <text>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Industry Skilled Roles&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1" style="text-align: justify;"&gt;&lt;span class="s1" style="font-size: 12pt;"&gt;Estimators, draftsmen, architects, quntity surveyors, engineers, para legal, medical transcriptionists.&lt;/span&gt;&lt;/p&gt;
 &lt;p class="p1" style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Software Developer - Mid Level&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="font-size: 12pt;"&gt;Developer talent is available acrosss a range of development platforms.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="about-description" style="text-align: justify;"&gt;&lt;span style="font-size: 12pt; color: #99cc00;"&gt;Salary Range: AU $19,000 - AU $32,000 per year &amp;nbsp;(includes all government mandated benefits).&lt;/span&gt;&lt;/p&gt;
-&lt;p class="about-description" style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</text>
+&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Administration &amp;amp; Finance Roles&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="font-size: 12pt;"&gt;Bookkeeping, AR/AP, doc control, invoicing, assistants, CRM admin, client surveying, time entry checking, data entry, internal reporting.&lt;/span&gt;&lt;/p&gt;</text>
           <width></width>
           <height></height>
           <styleClass></styleClass>
@@ -1169,14 +1169,9 @@
           <linkedWidget>toolbox.richText</linkedWidget>
           <idWithinRootWidget>145</idWithinRootWidget>
           <description></description>
-          <text>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Senior Developer / Team Leader&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span class="s1" style="font-size: 12pt;"&gt;The leader of your offshore development team must have the right background, experience and be thoroughly tested for skills. &amp;nbsp;This is one of the most sought-after skillsets in the Philippines, so wages are around one third of Australian rates instead of the usual one fifth.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="color: #99cc00; font-size: 12pt;"&gt;Salary Range: AU $32,000 - AU $59,000 per year &amp;nbsp;(includes all government mandated benefits).&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Software Developer - Mid Level&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class="p1" style="text-align: justify;"&gt;&lt;span style="font-size: 12pt;"&gt;Developer talent is available acrosss a range of development platforms.&lt;/span&gt;&lt;/p&gt;
-&lt;p class="about-description" style="text-align: justify;"&gt;&lt;span style="font-size: 12pt; color: #99cc00;"&gt;Salary Range: AU $19,000 - AU $32,000 per year &amp;nbsp;(includes all government mandated benefits).&lt;/span&gt;&lt;/p&gt;
-&lt;p class="about-description" style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</text>
+          <text>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Sales &amp;amp; Support Roles&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1" style="text-align: justify;"&gt;&lt;span class="s1" style="font-size: 12pt;"&gt;Quoting, ordering, procurement, inbound sales, social media activities, database cleaning / creation, CRM, outbound email lead generation.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1" style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</text>
           <width></width>
           <height></height>
           <styleClass></styleClass>
